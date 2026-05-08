@@ -96,7 +96,7 @@ Hierarchical Clustering builds a tree-like structure of clusters called a dendro
 * Largest vertical gap between y≈12 and y≈27 validated k=3 as the best cut point
 * Cluster 1 showed perfect separation; Clusters 0 and 2 showed slight overlap consistent with dendrogram observations
 
-
+# Comparison — KMeans vs Hierarchical
 |        | KMeans | Hierarchical |
 | ------ | ------ | ------------ |
 | Needs k upfront | Yes | No | 
